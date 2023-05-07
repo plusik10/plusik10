@@ -27,11 +27,9 @@ Hi My name is Konstantin i'm Backend developer
 -----------------
 
 <div align="center">
-
-| Codewars                                                        | Leetcode          |
-| ----------------------------------------------------------------| :---------------: |
-| ![codewars](https://www.codewars.com/users/plusik10/badges/large) | ![leetcode](https://leetcode.card.workers.dev/plusik10) |
-
+  
+![leetcode](https://leetcode.card.workers.dev/plusik10)
+  
 </div>
 
 -----------------
