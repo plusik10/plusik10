@@ -1,7 +1,9 @@
-Hi My name is Konstantin i'm Backend developer
-==================================================================================================================================
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-plusik10-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/plusik10) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:plusik.cs@gmail.com)
+### Hi there 👋
 
+_____________________
+
+- 🌱 Currently learning **Go**
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-plusik10-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/plusik10) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:plusik.cs@gmail.com)
 -----------------
 ### <div align="center"> Skills</div>
 
