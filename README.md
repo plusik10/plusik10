@@ -26,14 +26,6 @@ _____________________
 
 -----------------
 
-<div align="center">
-  
-![leetcode](https://leetcode.card.workers.dev/plusik10)
-  
-</div>
-
------------------
-
 ### <div align="center"> <b>GitHub Stats</b> </div>
 
 <div align="center">
